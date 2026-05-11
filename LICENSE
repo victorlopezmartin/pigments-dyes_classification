@@ -1,21 +1,16 @@
-MIT License
+Non-Commercial Academic License
 
-Copyright (c) 2026 Víctor López Martín
+Copyright (c) 2025 Víctor López Martín
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository contains academic work developed as part of the Bachelor's Thesis in Physics at the University of Granada.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The datasets used in this repository are derived from data provided by the Color Imaging Lab (CIMLab) / HyperDoc Project Team:
+https://github.com/colorimgugr/HyperDocApp
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is granted to access, use, modify, and redistribute the contents of this repository solely for academic, research, and educational purposes.
+
+Commercial use of this repository, including its source code, notebooks, and derived datasets, is strictly prohibited.
+
+Redistribution for non-commercial purposes is permitted provided that proper attribution to the original authors and the Color Imaging Lab (CIMLab) is retained.
+
+This repository is provided "as is", without warranty of any kind, express or implied.
